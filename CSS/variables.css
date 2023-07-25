@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&display=swap');
+:root{
+    /* Colors */
+    /* Primary Color */
+    --clr-primary-0:hsl(351, 100%, 86%);
+    --clr-primary-1:hsl(348, 100%, 91%);
+    --clr-primary-2: hsl(348, 100%, 82%);
+    --clr-primary-3:hsl(348, 100%, 75%);
+
+    /* Secondary Color */
+    --clr-secondary-0:hsl(0, 0%, 99%);
+    --clr-secondary-1:hsl(0, 0%, 92%);
+
+    /* Accent Color */
+    --clr-accent-0:hsl(26, 47%, 25%);
+    --clr-accent-1: hsl(24, 32%, 37%);
+    --clr-accent-2: hsl(25, 54%, 20%);
+    --clr-accent-3:hsl(22, 52%, 13%);
+
+    /* Font */
+    --font-accent: 'Playfair Display', serif ;
+    --font-primary : 'Sen', sans-serif;
+
+    /* Font weight */
+    --font-wt-reg: ;
+    --font-wt-medium: ;
+    --font-wt-bold: ;
+    --font-wt-black: 900 ;
+
+    /* font-size */
+    --fs-08: 0.5rem;
+    --fs-14: 0.875rem;
+    --fs-16: 1rem;
+    --fs-18: 1.125rem ;
+    --fs-22: 1.375rem ;
+    --fs-24: 1.5rem ;
+    --fs-28: 1.75rem ;
+    --fs-32: 2rem ;
+    --fs-36: 2.25rem ;
+    --fs-40: 2.5rem ;
+    --fs-44: 2.75rem ;
+    --fs-48: 3rem;
+    --fs-52: 3.25rem;
+    --fs-56: 3.5rem;
+    --fs-64: 4rem;
+    --fs-72: 4.5rem ;
+
+
+
+}

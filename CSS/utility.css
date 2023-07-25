@@ -1,0 +1,18 @@
+.common_padding{
+    padding: 0rem 8rem;
+}
+.vertical_padding{
+    padding: 8rem 0rem;
+}
+
+.padding_64{
+    padding: 4rem 0rem;
+}
+.common_64{
+    padding: 4rem 8rem;
+}
+.full-bleed{
+    box-shadow: 0 0 0 100vmax var(--clr-primary-0);
+    clip-path: inset(0 -100vmax);
+}
+
